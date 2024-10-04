@@ -1,0 +1,8 @@
+#!/bin/bash
+
+current_date="`date +%Y-%m-%d`";
+current_time="`date +%H:%M:%S`";
+
+echo "Current dir is" $PWD
+echo "Current date is" $current_date;
+echo "Current time is" $current_time;
